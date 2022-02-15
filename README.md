@@ -1,0 +1,2 @@
+# Aut0mation_Project
+This project basically uses the idea of webscarpping. It uses two module named beautifulsoup4 and request. Basic idea of this project was to catch some specific word (user given) or attribute of any website and it will extract the desired content (length depends on the user) related to that word and email all the extracted content directly using SMTP server. It can be used as an alert for some specific content related to sports, news headline or COVID update.
